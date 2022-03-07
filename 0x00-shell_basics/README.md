@@ -1,1 +1,1 @@
-List items or files in a folder
+List items or files in a folder.
