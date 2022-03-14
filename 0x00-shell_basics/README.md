@@ -1,1 +1,1 @@
-Change the working directory
+List the three files
